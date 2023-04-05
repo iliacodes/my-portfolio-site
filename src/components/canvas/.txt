@@ -1,0 +1,543 @@
+react_devtools_backend.js:2655 The Spline Loader currently does not support the outline layer.
+overrideMethod @ react_devtools_backend.js:2655
+au @ SplineLoader.js:1338
+(anonymous) @ SplineLoader.js:1338
+Eg @ SplineLoader.js:1338
+_g @ SplineLoader.js:1338
+parse @ SplineLoader.js:1338
+(anonymous) @ SplineLoader.js:1338
+(anonymous) @ three.module.js:41311
+Promise.then (async)
+load @ three.module.js:41299
+load @ SplineLoader.js:1338
+(anonymous) @ index-bb759d07.esm.js:1621
+(anonymous) @ index-bb759d07.esm.js:1621
+(anonymous) @ index-bb759d07.esm.js:1621
+query @ index.js:34
+suspend @ index.js:53
+useLoader @ index-bb759d07.esm.js:1637
+useSpline @ useSpline.es.js:4
+Scene @ Scene.jsx:9
+renderWithHooks @ react-dom.development.js:16305
+mountIndeterminateComponent @ react-dom.development.js:20074
+beginWork @ react-dom.development.js:21587
+beginWork$1 @ react-dom.development.js:27426
+performUnitOfWork @ react-dom.development.js:26557
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+3react_devtools_backend.js:2655 THREE.BufferGeometryUtils: mergeBufferGeometries() has been renamed to mergeGeometries().
+overrideMethod @ react_devtools_backend.js:2655
+mergeBufferGeometries @ BufferGeometryUtils.js:1323
+(anonymous) @ SplineLoader.js:1338
+Cg @ SplineLoader.js:1338
+parse @ SplineLoader.js:1338
+await in parse (async)
+(anonymous) @ SplineLoader.js:1338
+(anonymous) @ three.module.js:41311
+Promise.then (async)
+load @ three.module.js:41299
+load @ SplineLoader.js:1338
+(anonymous) @ index-bb759d07.esm.js:1621
+(anonymous) @ index-bb759d07.esm.js:1621
+(anonymous) @ index-bb759d07.esm.js:1621
+query @ index.js:34
+suspend @ index.js:53
+useLoader @ index-bb759d07.esm.js:1637
+useSpline @ useSpline.es.js:4
+Scene @ Scene.jsx:9
+renderWithHooks @ react-dom.development.js:16305
+mountIndeterminateComponent @ react-dom.development.js:20074
+beginWork @ react-dom.development.js:21587
+beginWork$1 @ react-dom.development.js:27426
+performUnitOfWork @ react-dom.development.js:26557
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: The tag <color> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
+    at color
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+createElement @ react-dom.development.js:9816
+createInstance @ react-dom.development.js:10941
+completeWork @ react-dom.development.js:22187
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: The tag <mesh> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
+    at mesh
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+createElement @ react-dom.development.js:9816
+createInstance @ react-dom.development.js:10941
+completeWork @ react-dom.development.js:22187
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: React does not recognize the `castShadow` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `castshadow` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at mesh
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+validateProperty$1 @ react-dom.development.js:3757
+warnUnknownProperties @ react-dom.development.js:3803
+validateProperties$2 @ react-dom.development.js:3827
+validatePropertiesInDevelopment @ react-dom.development.js:9541
+setInitialProperties @ react-dom.development.js:9830
+finalizeInitialChildren @ react-dom.development.js:10950
+completeWork @ react-dom.development.js:22193
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: React does not recognize the `receiveShadow` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `receiveshadow` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at mesh
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+validateProperty$1 @ react-dom.development.js:3757
+warnUnknownProperties @ react-dom.development.js:3803
+validateProperties$2 @ react-dom.development.js:3827
+validatePropertiesInDevelopment @ react-dom.development.js:9541
+setInitialProperties @ react-dom.development.js:9830
+finalizeInitialChildren @ react-dom.development.js:10950
+completeWork @ react-dom.development.js:22193
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: <directionalLight /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements.
+    at directionalLight
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+createElement @ react-dom.development.js:9761
+createInstance @ react-dom.development.js:10941
+completeWork @ react-dom.development.js:22187
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: The tag <directionalLight> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
+    at directionalLight
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+createElement @ react-dom.development.js:9816
+createInstance @ react-dom.development.js:10941
+completeWork @ react-dom.development.js:22187
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: React does not recognize the `shadow-mapSize-width` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `shadow-mapsize-width` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at directionalLight
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+validateProperty$1 @ react-dom.development.js:3757
+warnUnknownProperties @ react-dom.development.js:3803
+validateProperties$2 @ react-dom.development.js:3827
+validatePropertiesInDevelopment @ react-dom.development.js:9541
+setInitialProperties @ react-dom.development.js:9830
+finalizeInitialChildren @ react-dom.development.js:10950
+completeWork @ react-dom.development.js:22193
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: React does not recognize the `shadow-mapSize-height` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `shadow-mapsize-height` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at directionalLight
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+validateProperty$1 @ react-dom.development.js:3757
+warnUnknownProperties @ react-dom.development.js:3803
+validateProperties$2 @ react-dom.development.js:3827
+validatePropertiesInDevelopment @ react-dom.development.js:9541
+setInitialProperties @ react-dom.development.js:9830
+finalizeInitialChildren @ react-dom.development.js:10950
+completeWork @ react-dom.development.js:22193
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+index-bb759d07.esm.js:1581 Uncaught Error: R3F: Hooks can only be used within the Canvas component!
+    at useStore (index-bb759d07.esm.js:1581:21)
+    at useThree (index-bb759d07.esm.js:1590:10)
+    at PerspectiveCamera.js:17:15
+    at renderWithHooks (react-dom.development.js:16305:18)
+    at updateForwardRef (react-dom.development.js:19226:20)
+    at beginWork (react-dom.development.js:21636:16)
+    at HTMLUnknownElement.callCallback2 (react-dom.development.js:4164:14)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:4213:16)
+    at invokeGuardedCallback (react-dom.development.js:4277:31)
+    at beginWork$1 (react-dom.development.js:27451:7)
+useStore @ index-bb759d07.esm.js:1581
+useThree @ index-bb759d07.esm.js:1590
+(anonymous) @ PerspectiveCamera.js:17
+renderWithHooks @ react-dom.development.js:16305
+updateForwardRef @ react-dom.development.js:19226
+beginWork @ react-dom.development.js:21636
+callCallback2 @ react-dom.development.js:4164
+invokeGuardedCallbackDev @ react-dom.development.js:4213
+invokeGuardedCallback @ react-dom.development.js:4277
+beginWork$1 @ react-dom.development.js:27451
+performUnitOfWork @ react-dom.development.js:26557
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: <hemisphereLight /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements.
+    at hemisphereLight
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+createElement @ react-dom.development.js:9761
+createInstance @ react-dom.development.js:10941
+completeWork @ react-dom.development.js:22187
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: The tag <hemisphereLight> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
+    at hemisphereLight
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+createElement @ react-dom.development.js:9816
+createInstance @ react-dom.development.js:10941
+completeWork @ react-dom.development.js:22187
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: <directionalLight /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements.
+    at directionalLight
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+createElement @ react-dom.development.js:9761
+createInstance @ react-dom.development.js:10941
+completeWork @ react-dom.development.js:22187
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+recoverFromConcurrentError @ react-dom.development.js:25850
+performConcurrentWorkOnRoot @ react-dom.development.js:25750
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+index-bb759d07.esm.js:1581 Uncaught Error: R3F: Hooks can only be used within the Canvas component!
+    at useStore (index-bb759d07.esm.js:1581:21)
+    at useThree (index-bb759d07.esm.js:1590:10)
+    at PerspectiveCamera.js:17:15
+    at renderWithHooks (react-dom.development.js:16305:18)
+    at updateForwardRef (react-dom.development.js:19226:20)
+    at beginWork (react-dom.development.js:21636:16)
+    at HTMLUnknownElement.callCallback2 (react-dom.development.js:4164:14)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:4213:16)
+    at invokeGuardedCallback (react-dom.development.js:4277:31)
+    at beginWork$1 (react-dom.development.js:27451:7)
+useStore @ index-bb759d07.esm.js:1581
+useThree @ index-bb759d07.esm.js:1590
+(anonymous) @ PerspectiveCamera.js:17
+renderWithHooks @ react-dom.development.js:16305
+updateForwardRef @ react-dom.development.js:19226
+beginWork @ react-dom.development.js:21636
+callCallback2 @ react-dom.development.js:4164
+invokeGuardedCallbackDev @ react-dom.development.js:4213
+invokeGuardedCallback @ react-dom.development.js:4277
+beginWork$1 @ react-dom.development.js:27451
+performUnitOfWork @ react-dom.development.js:26557
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+recoverFromConcurrentError @ react-dom.development.js:25850
+performConcurrentWorkOnRoot @ react-dom.development.js:25750
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 Warning: <hemisphereLight /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements.
+    at hemisphereLight
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+overrideMethod @ react_devtools_backend.js:2655
+printWarning @ react-dom.development.js:86
+error @ react-dom.development.js:60
+createElement @ react-dom.development.js:9761
+createInstance @ react-dom.development.js:10941
+completeWork @ react-dom.development.js:22187
+completeUnitOfWork @ react-dom.development.js:26596
+performUnitOfWork @ react-dom.development.js:26568
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+recoverFromConcurrentError @ react-dom.development.js:25850
+performConcurrentWorkOnRoot @ react-dom.development.js:25750
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react_devtools_backend.js:2655 The above error occurred in the <ForwardRef> component:
+
+    at http://localhost:5173/node_modules/.vite/deps/@react-three_drei.js?v=fb169bf0:92639:3
+    at group
+    at Scene (http://localhost:5173/src/components/canvas/Scene.jsx:20:6)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at div
+    at Contact (http://localhost:5173/src/components/Contact.jsx:26:19)
+    at section
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=c2a93bab:296:40)
+    at HOC
+    at div
+    at div
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3430:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=cc8efb5b:3851:5)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+overrideMethod @ react_devtools_backend.js:2655
+logCapturedError @ react-dom.development.js:18687
+update.callback @ react-dom.development.js:18720
+callCallback @ react-dom.development.js:13923
+commitUpdateQueue @ react-dom.development.js:13944
+commitLayoutEffectOnFiber @ react-dom.development.js:23391
+commitLayoutMountEffects_complete @ react-dom.development.js:24688
+commitLayoutEffects_begin @ react-dom.development.js:24674
+commitLayoutEffects @ react-dom.development.js:24612
+commitRootImpl @ react-dom.development.js:26823
+commitRoot @ react-dom.development.js:26682
+finishConcurrentRender @ react-dom.development.js:25892
+performConcurrentWorkOnRoot @ react-dom.development.js:25809
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+react-dom.development.js:26923 Uncaught Error: R3F: Hooks can only be used within the Canvas component!
+    at useStore (index-bb759d07.esm.js:1581:21)
+    at useThree (index-bb759d07.esm.js:1590:10)
+    at PerspectiveCamera.js:17:15
+    at renderWithHooks (react-dom.development.js:16305:18)
+    at updateForwardRef (react-dom.development.js:19226:20)
+    at beginWork (react-dom.development.js:21636:16)
+    at beginWork$1 (react-dom.development.js:27426:14)
+    at performUnitOfWork (react-dom.development.js:26557:12)
+    at workLoopSync (react-dom.development.js:26466:5)
+    at renderRootSync (react-dom.development.js:26434:7)

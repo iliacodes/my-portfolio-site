@@ -1,0 +1,7 @@
+.vertical-timeline::before {
+  background-color: #072A24 !important;
+}
+
+.vertical-timeline-element-icon {
+  border-radius: 0 !important;
+}
