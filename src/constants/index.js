@@ -89,10 +89,6 @@ const technologies = [
     name: "postgresql",
     icon: postgresql,
   },
-  {
-    name: "Blockify",
-    icon: blockify,
-  }
 
 ];
 
