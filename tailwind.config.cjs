@@ -7,6 +7,9 @@ module.exports = {
       screens: {
         xs: "450px",
       },
+      zIndex: {
+        '-1': '-1',
+      },
     },
   },
   plugins: [],

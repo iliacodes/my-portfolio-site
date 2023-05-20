@@ -26,7 +26,6 @@ const Contact = () => {
     });
   };
 
-  //template_iaoi42k
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);

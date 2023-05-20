@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from 'react';
-import { motion } from 'framer-motion';
+// import { motion } from 'framer-motion';
 import bg from '../assets/3333.jpg';
-import pic from '../assets/neoINTRO.png';
+// import pic from '../assets/neoINTRO.png';
 import './glitchImage.css';
 
 const Intro = () => {
@@ -59,18 +59,18 @@ const Intro = () => {
           className='ml-auto w-[300px] h-[300px] relative'
           style={{ float: 'right' }}
         >
-          <div className='glitch-container'>
+          {/* <div className='glitch-container'>
             <img
               src={pic}
               alt='Glitched Image'
               className='glitch'
               ref={glitchImgRef}
             />
-          </div>
+          </div> */}
         </div>
       </div>
 
-      <div className='absolute  w-full flex justify-start items-center '>
+      {/* <div className='absolute  w-full flex justify-start items-center '>
         <a href='#about'>
           <div className='p-8'>
             <motion.div
@@ -86,7 +86,7 @@ const Intro = () => {
             />
           </div>
         </a>
-      </div>
+      </div> */}
     </section>
   );
 };

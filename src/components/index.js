@@ -7,6 +7,7 @@ import Experience from './Experience';
 import Works from './Works';
 import Contact from './Contact';
 import Projects from './Projects';
+import Background from './Background';
 
 export {
   Intro,
@@ -17,5 +18,6 @@ export {
   Contact,
   Scene, 
   Projects,
-  About
+  About,
+  Background
 }
